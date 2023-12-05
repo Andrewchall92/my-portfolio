@@ -46,8 +46,8 @@ function ProjectsPage() {
           </div>
         </div>
          {/* more projects will be added */}
-        <h4>More coming soon!</h4>
       </div>
+      <h4>More coming soon!</h4>
     </>
   );
 }
