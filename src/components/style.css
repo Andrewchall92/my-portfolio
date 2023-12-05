@@ -16,7 +16,15 @@
 .nav-item {
     font-size: 20px;
     font-weight: bold;
-    padding: 20px;
+    padding: 5px;
+}
+
+.nav-link {
+    color:black !important;
+}
+
+.nav-link:hover {
+    color:blue !important;
 }
 
 .container {
