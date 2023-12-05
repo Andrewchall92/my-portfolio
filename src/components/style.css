@@ -63,3 +63,20 @@ h4 {
     padding: 20px;
     text-align: center;
 }
+
+footer {
+    background-color: lightslategrey;
+    padding: 20px;
+
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.social-link {
+    color:darkblue !important;
+}
+
+.social-link:hover {
+    color:blue !important;
+}
